@@ -1,0 +1,115 @@
+% Nouvelles références suggérées
+@misc{integrate_io_stats,
+  title = {Data Transformation Challenge Statistics -- 50 Statistics},
+  author = {Integrate.io},
+  year = {2026},
+  url = {https://www.integrate.io/blog/data-transformation-challenge-statistics/}
+}
+@misc{latentview2026,
+  title = {Enterprise Data Migration: Strategy, Steps \& Best Practices},
+  author = {LatentView Analytics},
+  year = {2026},
+  url = {https://www.latentview.com/blog/enterprise-data-migration/}
+}
+@misc{medhacloud2026,
+  title = {50 Cloud Migration Statistics for 2026},
+  author = {MedhaCloud},
+  year = {2026},
+  url = {https://medhacloud.com/blog/cloud-migration-statistics-2026}
+}
+@misc{datastackhub2026,
+  title = {50 Cloud Migration Statistics for 2025--2026},
+  author = {DataStackHub},
+  year = {2026},
+  url = {https://www.datastackhub.com/insights/cloud-migration-statistics/}
+}
+@misc{reportsanddata2026,
+  title = {Data Migration Market Size, Share \& Forecast 2025--2035},
+  author = {Reports and Data},
+  year = {2026},
+  url = {https://www.reportsanddata.com/report-detail/data-migration-market}
+}
+@misc{researchandmarkets2026,
+  title = {Data Migration Market -- Global Forecast 2026--2032},
+  author = {360iResearch / Research and Markets},
+  year = {2026},
+  url = {https://www.researchandmarkets.com/report/data-migration}
+}
+@misc{bri2026,
+  title = {Data Migration Market Share \& Forecast 2026--2035},
+  author = {Business Research Insights},
+  year = {2026},
+  url = {https://www.businessresearchinsights.com/market-reports/data-migration-market-125775}
+}
+@misc{fortunebi2026,
+  title = {Data Migration Market Size, Trends \& Report Analysis 2034},
+  author = {Fortune Business Insights},
+  year = {2026},
+  url = {https://www.fortunebusinessinsights.com/data-migration-market-111591}
+}
+@misc{ibm_data_quality,
+  title = {A Compounding Threat: The True Cost of Poor Data Quality},
+  author = {IBM},
+  year = {2026},
+  url = {https://www.ibm.com/think/insights/cost-of-poor-data-quality}
+}
+@misc{forbes_bad_data,
+  title = {The Real Cost Of Bad Data},
+  author = {Forbes},
+  year = {2025},
+  url = {https://www.forbes.com/councils/forbescommunicationscouncil/2025/10/22/the-real-cost-of-bad-data/}
+}
+@misc{stationx_privacy,
+  title = {Data Privacy Statistics 2026: 51+ Laws, Fines \& Trends},
+  author = {StationX},
+  year = {2026},
+  url = {https://app.stationx.net/articles/data-privacy-statistics}
+}
+@misc{vovance_medium,
+  title = {Why Most Data Migration Projects Fail (and How to Avoid It)},
+  author = {Vovance},
+  year = {2025},
+  url = {https://medium.com/@vovance/why-most-data-migration-projects-fail}
+}
+@misc{buzzclan2026,
+  title = {AI-Powered Data Migration Framework: Complete Guide 2026},
+  author = {BuzzClan},
+  year = {2025},
+  url = {https://buzzclan.com/data-engineering/data-migration-framework/}
+}
+@misc{ispirer_ai,
+  title = {AI Data Migration \& Automation in 2025},
+  author = {Ispirer Systems},
+  year = {2025},
+  url = {https://www.ispirer.com/blog/ai-data-migration}
+}
+@misc{kanerika_etl,
+  title = {ETL Migration: How to Convert Pipelines Without Breaking Production},
+  author = {Kanerika},
+  year = {2026},
+  url = {https://kanerika.com/blogs/etl-migration/}
+}
+@misc{alation_migration,
+  title = {Top Data Migration Tools and Selection Guide for 2026},
+  author = {Alation},
+  year = {2025},
+  url = {https://www.alation.com/blog/data-migration-tools/}
+}
+@misc{alphabyte_etl,
+  title = {ETL Best Practices for Enterprise Data Integration},
+  author = {Alphabyte Solutions},
+  year = {2026},
+  url = {https://alphabytesolutions.com/etl-best-practices/}
+}
+@misc{integrate_io_etl,
+  title = {Data Quality Improvement Stats from ETL -- 50+ Key Facts},
+  author = {Integrate.io},
+  year = {2026},
+  url = {https://www.integrate.io/blog/data-quality-improvement-stats-from-etl/}
+}
+@misc{godlan_erp,
+  title = {ERP Implementation Failure Statistics: 2025 Research},
+  author = {Godlan Consulting},
+  year = {2025},
+  url = {https://godlan.com/erp-implementation-failure-statistics/}
+}
